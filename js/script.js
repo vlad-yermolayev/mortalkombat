@@ -51,3 +51,5 @@ function createPlayer(className, charachter) {
 
 createPlayer('player1', PLAYER_1);
 createPlayer('player2', PLAYER_2);
+
+
